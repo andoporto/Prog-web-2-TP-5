@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\ejercicio 1.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/Base de datos/TP 6/ejercicio 1/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/Base de datos/TP 6/ejercicio 1/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php"/>
+	</lastopfiles>
+	<errors version="5.3">
+	</errors>
+	<codestructure version="5.0">
+		<phptree>
+			<treenode node="conectarBaseDeDatos;PHP:Function Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f1;12;2;16;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f4;13;5;15;;;;vpos;;v;;r;;d59,13;;b0,0;;mhost;;puser;;ppass;;pdb;;p">
+				<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f48;12;51;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f54;13;57;13;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f54;13;57;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f30;12;35;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f33;13;38;13;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f33;13;38;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f42;12;47;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f47;13;52;13;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f47;13;52;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f36;12;41;12;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f40;13;45;13;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f40;13;45;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="db;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f0;9;3;9;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f0;9;3;9;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="host;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f0;6;5;6;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f0;6;5;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="pass;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f0;8;5;8;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f0;8;5;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="user;PHP:Var Name;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\Codelobster0.php;f0;7;5;7;;C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php;f0;7;5;7;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\Base de datos\TP 6\ejercicio 1\index.php" crc="-859621254"/>
+	</filescache>
+</project>
